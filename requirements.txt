@@ -1,1 +1,7 @@
-streamlit
+streamlit               # versión estable compatible con tu proyecto
+google-generativeai     # verifica cuál es la versión compatible
+anthropic
+pandas                   # o la que estés usando
+PyPDF2              # versión compatible con tu código
+datetime
+huggingface_hub
