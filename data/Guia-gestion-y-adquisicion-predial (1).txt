@@ -1,0 +1,1302 @@
+GUÍA CON RECOMENDACIONES
+PARA LA GESTIÓN Y ADQUISICIÓN
+PREDIAL
+1
+
+GUÍA CON RECOMENDACIONES PARA LA GESTIÓN Y
+ADQUISICIÓN PREDIAL
+Contenidos
+Introducción .................................................................................................................................................. 3
+1
+
+Marco legal y normativo........................................................................................................................ 4
+
+2
+
+Gestión y adquisición predial ................................................................................................................ 7
+2.1
+
+3
+
+2.1.1
+
+Derecho de preferencia ......................................................................................................... 7
+
+2.1.2
+
+Enajenación voluntaria o forzosa y expropiación administrativa o judicial ........................... 8
+
+Procedimiento y actividades de la gestión y adquisición predial........................................................... 9
+3.1
+
+Actores institucionales en el proceso de gestión predial .............................................................. 9
+
+3.2
+
+Actividades en la gestión predial ................................................................................................... 9
+
+3.2.1
+
+Elaboración del registro topográfico ................................................................................... 10
+
+3.2.2
+
+Estudio de títulos ................................................................................................................. 14
+
+3.2.3
+
+Gestión para el restablecimiento de condiciones................................................................ 14
+
+3.2.4
+
+Avalúos comerciales ............................................................................................................ 18
+
+3.3
+
+Actividades en la adquisición predial........................................................................................... 18
+
+3.3.1
+
+Oferta de compra ................................................................................................................ 19
+
+3.3.2
+
+Contrato de compraventa ................................................................................................... 19
+
+3.3.3
+
+Entrega y recibo del inmueble ............................................................................................. 20
+
+3.3.4
+
+Escritura pública y transferencia de dominio ...................................................................... 21
+
+3.4
+
+4
+
+Instrumentos aplicables ................................................................................................................ 7
+
+Expropiación ................................................................................................................................ 21
+
+3.4.1
+
+Expropiación judicial ............................................................................................................ 21
+
+3.4.2
+
+Expropiación administrativa ................................................................................................ 22
+
+Glosario ............................................................................................................................................... 24
+
+2
+
+Introducción
+En Colombia la gestión del suelo, y en general el ordenamiento territorial, se desarrollar a partir de los
+instrumentos introducidos al régimen jurídico y urbanístico del país inicialmente mediante la promulgación
+de la Ley 9 de 1989 y, posteriormente, con la reforma de la Ley 388 de 1997. En particular, con la segunda,
+se introdujo un sistema para el ordenamiento territorial y el desarrollo urbano que permite a los municipios
+y distritos planificar, financiar y gestionar sus programas y proyectos asociados al suelo, mediante
+mecanismos que posibilitan la intervención en la propiedad en armonía con su función social y ecológica,
+la movilización de plusvalías para sufragar los costos de la urbanización y la gestión asociada de suelo. Estos
+mecanismos permiten que las decisiones políticas plasmadas dentro de los planes de ordenamiento
+territorial pasen de ser simple retórica para convertirse en actuaciones concretas, con resultados en una
+mayor calidad de vida de los habitantes de las ciudades.
+Desde entonces todos estos instrumentos han sido objeto de un proceso de interpretación y apropiación
+permanente por parte de las administraciones locales y la ciudadanía en general, empezando con su
+definición en los planes de ordenamiento territorial, su coherencia a con el modelo de ordenamiento
+territorial y su posterior reglamentación e implementación.
+Así, el objetivo de la presente guía no es otro que ofrecer lineamientos técnicos, legales y operativos que
+orienten de manera general el desarrollo de los procesos de gestión y adquisición predial. Lo anterior con
+el fin que el uso del instrumento pueda darse de manera correcta en todas sus etapas, dentro del marco
+legal y procedimental que rige la materia.
+
+3
+
+1 Marco legal y normativo
+A continuación se enlistan el cuerpo normativo del nivel nacional vigente en la materia:
+Escala normativa
+Legal
+
+Marco Legal
+Ley 57 de 1887
+Ley 9 de 1989
+Ley 80 de 1993
+Ley 388 de 1997
+Ley 791 de 2002
+Ley 1150 de 2007
+
+Ley 1183 de 2008
+Ley 1266 de 2008
+
+Ley 1437 de 2011
+Ley 1474 de 2011
+
+Ley 1561 de 2012
+
+Ley 1581 de 2012
+Ley 1564 de 2012
+Ley 1579 de 2012
+Ley 1682 de 2013
+Ley 1742 de 2014
+
+Ley 1755 de 2015
+
+Ley 1882 de 2018
+Ley 2195 de 2022
+Ley 2213 de 2022
+
+Temática
+Código civil de Colombia
+Normas sobre planes de desarrollo municipal, compraventa y
+expropiación de bienes
+Estatuto de Contratación
+Se modifica la Ley 9 de 1989, y la Ley 2 de 1991
+Se reducen los términos de prescripción en materia civil
+Se introducen medidas para la eficiencia y transparencia en la Ley
+80 de 1993 y se dictan otras disposiciones generales sobre la
+contratación con recursos públicos
+Se asignan unas funciones a los Notarios
+Disposiciones generales del hábeas data y se regula el manejo de
+la información contenida en bases de datos personales, en
+especial la financiera, crediticia, comercial, de servicios y la
+proveniente de terceros países
+Código de Procedimiento Administrativo y de lo Contencioso
+Administrativo
+Normas orientadas a fortalecer los mecanismos de prevención,
+investigación y sanción de actos de corrupción y la efectividad del
+control de la gestión pública.
+Se establece un proceso verbal especial para otorgar títulos de
+propiedad al poseedor material de bienes inmuebles urbanos y
+rurales de pequeña entidad económica, sanear la falsa tradición y
+se dictan otras disposiciones
+Disposiciones generales para la protección de datos personales
+Código General del Proceso
+Estatuto de registro de instrumentos públicos
+Medidas y disposiciones para los proyectos de infraestructura de
+transporte
+Medidas y disposiciones para los proyectos de infraestructura de
+transporte, agua potable y saneamiento básico, y los demás
+sectores que requieran expropiación en proyectos de inversión
+que adelante el Estado
+Se regula el Derecho Fundamental de Petición y se sustituye un
+título del Código de Procedimiento Administrativo y de lo
+Contencioso Administrativo
+Adicionan, modifican y dictan disposiciones orientadas a
+fortalecer la contratación pública en Colombia
+Se adoptan medidas en materia de transparencia, prevención y
+lucha contra la corrupción
+Establece la vigencia permanente del decreto legislativo 806 de
+2020 y se adoptan medidas para implementar las tecnologías de
+la información y las comunicaciones en las actuaciones judiciales,
+agilizar los procesos judiciales y flexibilizar la atención a los
+usuarios del servicio de justicia
+
+4
+
+Procedimiento e
+implementación:
+Decretos
+
+Decreto Ley 960 de
+1970
+Decreto 2148 de 1983
+
+Estatuto del Notariado
+
+Decreto 1420 de 1998
+
+Reglamenta parcialmente el artículo 37 de la Ley 9 de 1989, el
+artículo 27 del Decreto-ley 2150 de 1995, los artículos 56, 61, 62,
+67, 75, 76, 77, 80, 82, 84 y 87 de la Ley 388 de 1997 y, el artículo
+11 del Decreto-ley 151 de 1998, que hacen referencia al tema de
+avalúos
+Reglamenta los artículos 15 y 28 de la Ley 388 de 1997
+Reglamentan parcialmente las disposiciones relativas a planes
+parciales contenidas en la Ley 388 de 1997 y se dictan otras
+disposiciones en materia urbanística
+Reglamentan las disposiciones relativas a las licencias
+urbanísticas; al reconocimiento de edificaciones; a la función
+pública que desempeñan los curadores urbanos
+reglamenta el parágrafo 1° del artículo 61 de la Ley 388 de 1997
+relativo al anuncio de programas, proyectos u obras de utilidad
+pública o interés social
+Normas para suprimir o reformar regulaciones, procedimientos y
+trámites innecesarios existentes en la Administración Pública
+Reglamentan las condiciones para la concurrencia de terceros en
+la adquisición de inmuebles por enajenación voluntaria y
+expropiación por vía judicial o administrativa
+Reglamenta el saneamiento automático por motivos de utilidad
+pública e interés social de que trata el artículo 21 de la Ley 1682
+del 22 de noviembre de 2013
+Decreto único reglamentario del sector administrativo de
+Planeación Nacional
+Especificaciones técnicas mínimas que deben cumplir las
+personas naturales o jurídicas para realizar trabajos
+fotogramétricos y cartográficos en el territorio nacional
+Define los orígenes cartográficos para la proyección Gauss Krüger, Colombia (Transverse Mercator)
+Adopta como único DATUM oficial de Colombia el Marco
+Geocéntrico de Colombia: MAGNA-SIRGAS
+Establece los procedimientos para los avalúos ordenados dentro
+del marco de la Ley 388 de 1997
+Establece el procedimiento para desarrollar el trámite de
+actualización de cabida y/o linderos de que trata el artículo 26 de
+la Ley 1682 de 2013
+Se fijan normas, métodos, parámetros, criterios y procedimientos
+para la elaboración de los avalúos comerciales, incluyendo el
+valor de las indemnizaciones o compensaciones desde el
+momento en que se realiza la oferta, en cumplimiento de lo
+dispuesto por la Ley 1682 de 2013
+Modifica parcialmente y se adiciona la Resolución 898 de 2014,
+que fija, normas, métodos, parámetros, criterios, y
+procedimientos para la elaboración de avalúos comerciales
+requeridos en los proyectos de Infraestructura de transporte a
+que se refiere la Ley 1682 de 2013
+
+Decreto 1077 de 2015
+
+Decreto 19 de 2012
+Decreto 199 de 2013
+
+Decreto 737 de 2014
+
+Decreto 1082 de 2015
+Procedimiento e
+implementación:
+Resoluciones
+
+Resolución IGAC 64 de
+1994
+Resolución IGAC 399
+de 2001
+Resolución IGAC 068
+de 2005
+Resolución IGAC 620
+de 2008
+Resolución IGAC 0193
+de 2014
+Resolución IGAC 898
+de 2014
+
+Resolución IGAC 1044
+de 2014
+
+Reglamenta los decretos-leyes 0960 y 2163 de 1970 y la Ley 29
+de 1973
+
+5
+
+Resolución conjunta
+SNR No.1732 / IGAC
+No.221 IGAC de 2018
+Resolución IGAC 643
+de 2018
+
+Resolución conjunta
+SNR No.11344 / IGAC
+No.1101 de 2020
+
+Establece lineamientos y procedimientos para la corrección o
+aclaración, actualización, rectificación de linderos y área,
+modificación física e inclusión de área de bienes inmuebles
+Adopta las especificaciones técnicas de levantamiento
+planimétrico para las actividades de barrido predial masivo y las
+especificaciones técnicas del levantamiento topográfico
+planimétrico para casos puntuales
+Establece lineamientos y procedimientos para la corrección o
+aclaración, actualización, rectificación de linderos y área,
+modificación física e inclusión de área de bienes inmuebles
+
+Otras normas:
+NORMA ICONTEC NTC 6271 DE 2018. Información Geográfica - Estudios Topográficos.
+
+Es necesario precisar que cada entidad debe desarrollar estas normas en el marco de sus competencias y
+las normas municipales que precisen o desarrollen cada uno de los instrumentos y procedimientos dentro
+de su jurisdicción, así como alinearse con disposiciones específicas que apliquen en materia de fuentes de
+financiación como el sistema general de regalías – SGR – o los recursos de organismos multilaterales de
+crédito celebrados con personas jurídicas nacionales o extranjeras de derecho público u organismos de
+cooperación, asistencia o ayuda internacionales, tales como FINDETER, Banco Mundial, CAF o BID.
+
+6
+
+2 Gestión y adquisición predial
+La gestión predial es el proceso a través del cual se realiza el estudio social, económico, jurídico y técnico
+de los inmuebles requeridos para un programa o proyecto específico. El estudio se materializa en fichas
+con la información de los predios objeto de estudio, los registros topográficos, estudios de títulos y avalúos
+comerciales y demás documentos, con el fin de proveer los insumos necesarios para llevar a cabo el proceso
+de adquisición predial y garantizar la disponibilidad del suelo que se demande.
+La gestión predial inicia con el resultado de los estudios de prefactibilidad y factibilidad de los inmuebles
+que se encuentran definidas en las alternativas del proyecto y, posteriormente, la adquisición predial se
+realiza a partir de los predios identificados dentro del polígono con la alternativa escogida en la etapa de
+factibilidad del proyecto que se quiere desarrollar y para su efectiva adquisición existen instrumentos como
+el derecho de preferencia en favor de los bancos inmobiliarios, la enajenación y la expropiación.
+
+2.1 Instrumentos aplicables
+2.1.1 Derecho de preferencia
+El derecho de preferencia es un instrumento que se utiliza en el marco del desarrollo de operaciones
+urbanísticas con el fin adquirir inmuebles y predios y facilitar el desarrollo de proyectos de vivienda de
+interés social y prioritaria e infraestructura que cumplan con los fines establecidos en el artículo 10 de la
+Ley 9 de 1989. Para ello, las entidades competentes para adelantar procesos de expropiación pueden
+establecer a su favor o de los bancos inmobiliarios un derecho de preferencia en la enajenación de los
+inmuebles que declara de utilidad pública o interés social la adquisición de estos en cuya virtud los
+propietarios que tengan la intención de enajenar sus inmuebles deberán, por una sola vez, ofrecerlos en
+primer lugar a estas.
+La inscripción de la resolución que determina la utilización del derecho de preferencia, así como el
+procedimiento para establecer el precio, las condiciones de pago y de la oferta, se deben realizar de
+conformidad con lo establecido en el artículo 74 y siguientes de la Ley 9 de 1989 o por las normas que los
+modifiquen, deroguen o sustituyan.
+De acuerdo al artículo 76 de la mencionada ley, el propietario debe ofrecer el predio en venta por una sola
+vez y en primer lugar a la entidad, quien dispondrá de un plazo de tres meses contados desde la fecha de
+recepción de la oferta para ejercer su derecho de preferencia, y un plazo adicional de seis meses para
+perfeccionar la transacción.
+En cuanto al precio de compra del inmueble y las condiciones de pago, el artículo 75 dispone que se
+sujetarán a las disposiciones de la adquisición de bienes por enajenación voluntaria y por expropiación de
+la misma ley, el cual tiene como objetivo establecer instrumentos para la adquisición y expropiación de
+inmuebles en desarrollo de los propósitos del ordenamiento territorial, y señala en el artículo 15, sustituido
+por la Ley 388 de 1997, que el precio máximo de adquisición será el fijado por el Instituto Agustín Codazzi
+o por la entidad que cumpla sus funciones, de conformidad con el artículo 18 de la misma. La forma de
+7
+
+pago, en dinero efectivo, títulos valores, o bienes muebles e inmuebles, debe ser acordada entre el
+propietario y el Representante Legal de la entidad adquirente. Las condiciones mínimas del pago del precio
+serán las previstas en el artículo 29.
+Adicionalmente, el artículo 11 de la ley en mención señala que los establecimientos públicos, las empresas
+industriales y comerciales del Estado y las sociedades de economía mixta asimiladas a las anteriores, de los
+órdenes nacional, departamental y municipal, que estén expresamente facultadas por sus propios
+estatutos para desarrollar alguna o algunas de las actividades previstas en el artículo 10 de dicha ley;
+también podrán adquirir o decretar la expropiación de inmuebles para el desarrollo de dichas actividades.
+Así, en virtud del artículo 13, corresponde al Representante Legal de la entidad, previas las autorizaciones
+estatutarias o legales respectivas, expedir el oficio por medio del cual se dispone la adquisición del bien
+mediante enajenación voluntaria directa.
+El oficio que disponga una adquisición será inscrito por la entidad adquirente en el Folio de Matrícula
+Inmobiliaria del inmueble dentro de los cinco días hábiles siguientes a su notificación. Los inmuebles así
+afectados quedarán fuera del comercio a partir de la fecha de la inscripción, y mientras subsista, ninguna
+autoridad podrá conceder licencia de construcción, de urbanización, o permiso de funcionamiento por
+primera vez para cualquier establecimiento industrial o comercial sobre el inmueble objeto de la oferta de
+compra. Los que se expidan no obstante esta prohibición será nulos de pleno derecho.
+
+2.1.2 Enajenación voluntaria o forzosa y expropiación administrativa o judicial
+Las autoridades municipales y distritales son competentes para adquirir por enajenación voluntaria, o
+mediante el procedimiento de expropiación, los inmuebles que requiera para el cumplimiento de los fines
+previstos en el artículo 58 de la Ley 388 de 1997 y las demás disposiciones que contengan motivos de
+utilidad pública. También son competentes para adquirir inmuebles los establecimientos públicos, las
+empresas industriales y comerciales del Estado y las sociedades de economía mixta asimiladas a las
+anteriores, cuando vayan a desarrollar alguna o algunas de las actividades previstas en la norma referida.
+El trámite para adquirir por enajenación voluntaria o mediante el procedimiento de expropiación está
+sujeto a lo establecido en la Ley 9 de 1989, modificada por la Ley 388 de 1997 y los decretos reglamentarios
+o aquellas normas que los complementen, modifique o sustituya.
+Así, la enajenación voluntaria inicia con una notificación de la resolución de oferta de compra, culmina con
+la suscripción y posterior registro de la Escritura Pública, e implica que existe un acuerdo de voluntades
+entre las partes.
+Durante el procedimiento de adquisición de predios, tanto en la enajenación voluntaria como en la
+expropiación administrativa, se pueden presentar situaciones que impliquen la necesidad de valorar la
+información aportada, solicitar pruebas, impulsar gestiones ante terceros o inclusive de suspender
+términos con el fin de garantizar el debido proceso dentro del trámite de adquisición. En razón de lo
+anterior, la entidad encargada de la adquisición de predios puede expedir autos de pruebas (artículos 40 y
+79 del CPACA); autos de impulso procesal o mejor proveer (numeral 13, artículo 3 del CPACA) y/o autos de
+suspensión de términos.
+8
+
+3 Procedimiento y actividades de la gestión y adquisición predial
+3.1 Actores institucionales en el proceso de gestión predial
+Con el fin de llevar a cabo la gestión predial de manera integral, las entidades deben tener estructuras
+organizacionales con una o más dependencias que permitan desarrollar de manera articulada las
+actividades y roles que tienen cada uno de los actores institucionales que se presentan a continuación.
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Técnico: Consolidar todas las variables del componente predial en las fases de prefactibilidad y
+factibilidad, incluyendo las ambientales, urbanísticas y de espacio público, entre otras.
+Así mismo, elaborar los registros topográficos de los predios afectados por las reservas viales de
+los proyectos en ejecución.
+Geográfico: Georreferenciar la información de los diferentes componentes de gestión y generar
+los productos temáticos para este fin en especial las tiras topográficas de seguimiento al proceso
+de adquisición predial en los diferentes proyectos.
+Económico: Establecer los valores que harán parte de la oferta de compra de los inmuebles a partir
+de la de revisión de los documentos aportados por los propietarios en lo que refiere a la
+indemnización por daño emergente y lucro cesante, y la revisión de los valores presentados por la
+entidad facultada para la elaboración de los avalúos comerciales.
+Jurídico: Efectuar los estudios que permitan identificar la titularidad y tradición de los predios, y
+elaborar los actos administrativos y documentos jurídicos que acompañan la adquisición predial
+por enajenación voluntaria y/o expropiación administrativa.
+Social: Elaborar los productos sociales que caracterizarán a cada una de las unidades sociales
+impactadas por los procesos de gestión predial y generar, con base en ello, los planes de acción de
+restablecimiento de condiciones socioeconómicas y de acompañamiento integral a lo largo del
+proceso.
+Inmobiliario y administración predial: Gestionar el acompañamiento en materia inmobiliaria que
+demandan las personas a trasladar, en especial para la obtención de los predios de reemplazo con
+ocasión de los traslados involuntarios generados por los procesos de adquisición, igualmente emitir
+los conceptos de intervención estructural sobre los predios impactados de manera parcial por las
+reservas viales.
+Así mismo, recibir los predios adquiridos en el proceso de gestión predial y garantizar su custodia
+y mantenimiento mientras se surte su entrega a los contratistas de obra, lo anterior, a través de
+los contratos de vigilancia y demolición, cerramiento, limpieza y mantenimiento habilitados para
+este fin.
+Administrativo, financiero y contractual: Generar los productos institucionales de soporte y el
+acompañamiento jurídico, administrativo y financiero a cada uno de los contratos bajo la
+supervisión de las dependencias en cargadas de la gestión predial.
+
+3.2 Actividades en la gestión predial
+
+9
+
+Para desarrollar con éxito el procedimiento de gestión predial, la entidad debe llevar a cabo las siguientes
+actividades partiendo de la información contenida en los estudios y diseños de factibilidad del proyecto,
+elaborados por los consultores o al interior de la entidad.
+
+3.2.1 Elaboración del registro topográfico
+Previo al inicio de las actividades de topografía en terreno, es necesario adelantar la socialización del
+proyecto mediante reunión y/o envío de comunicaciones a los propietarios de los predios identificados que
+serán objeto del proceso de gestión predial.
+Posteriormente o de manera paralela el equipo encargado del componente técnico de la gestión predial
+debe dar inicio a las actividades de topografía en terreno realizando el levantamiento topográfico de las
+manzanas donde se encuentran ubicados los predios requeridos e identificando cada predio de manera
+individual. Para ello, el equipo debe llevar a cabo el análisis catastral, una visita de campo y el levantamiento
+y registro topográfico.
+
+Análisis Catastral:
+El análisis catastral es la comparación del Sistema de Coordenadas de la información topográfica y predial
+del proyecto con la base de datos catastral, con el fin de:
+•
+•
+•
+•
+•
+
+Validar catastralmente las coordenadas y la existencia de los predios.
+Evitar duplicidad o traslape (sobreposición) de predios con datos jurídicos suministrados de la base
+catastral.
+Precisar los límites de los predios que serán objeto de intervención, se identifican los predios que
+tendrán afectación parcial.
+Obtener información preliminar para la elaboración de los registros topográficos y de los estudios
+de títulos
+Identificación de eventuales predios que sean espacio público y/o bienes de uso público.
+
+La verificación es realizada por los responsables del componente técnico de la gestión predial en la entidad.
+En caso que existan diferencias o incongruencias, entre las bases catastrales y la intervención del proyecto,
+esta dependencia, o equipo, informará las diferencias a los responsables de la definición del proyecto de
+los ajustes correspondientes. Subsanadas las inconsistencias y radicada nuevamente la tira topográfica
+ajustada y una vez definido el número de predios de la obra a ejecutar, la dependencia responsable del
+componente técnico definirá el número del registro topográfico - RT, el cual será el que en adelante
+identifique el predio durante el proceso de gestión y adquisición.
+Simultáneamente con el inventario predial de la tira topográfica se creará por parte del componente de
+seguimiento de los proyectos, una base predial con la identificación de cada inmueble para efectos del
+registro, la investigación jurídica y el levantamiento del censo social. Los profesionales técnicos, realizarán
+
+10
+
+las visitas a campo de manera coordinada y por sectores partiendo de la información catastral y jurídica
+disponible y preliminar para realizar el reconocimiento de los inmuebles.
+Con la información catastral suministrada y sus coordenadas, el componente técnico adelanta el
+alistamiento cartográfico que consiste en traer de las bases catastrales suministrada por la autoridad
+catastral, la identificación de cada uno de los predios a indicar: i. código catastral, ii. Folio de Matrícula
+inmobiliaria, iii. Áreas registradas.
+Recopilar y analizar información sobre licencias urbanísticas, planos urbanísticos y planes parciales de los
+predios requeridos para la obra con el fin de determinar usos del suelo permitidos y potenciales.
+
+Visita a campo:
+Los profesionales asignados, identificarán los inmuebles con los insumos obtenidos de las investigaciones
+catastrales y jurídicas preliminares como son el boletín catastral y demás documentos que le permitan la
+correcta identificación del inmueble objeto de levantamiento topográfico y que se encuentre dentro del
+trazado de la intervención requerido.
+En campo, el profesional deberá levantar topografía de área y linderos del terreno más las construcciones
+existentes en el predio de acuerdo con las normas técnicas utilizadas de medición y para lo cual deberá
+tener en cuenta:
+•
+•
+•
+•
+
+•
+•
+•
+
+•
+•
+•
+
+Las medidas de longitudes y áreas,
+El área total, se refiere a la extensión del predio.
+El área requerida o segregada, es aquella necesaria para la ejecución de la obra.
+El área restante (sobrante), cuyo levantamiento deberá incluirse en el registro topográfico,
+corresponde a la diferencia entre el área total y el área requerida para el proyecto; siempre y
+cuando no corresponda a un predio de mayor extensión.
+El área construida, hace referencia al área total cubierta.
+Las construcciones deberán determinarse como áreas cubiertas en metros cuadrados.
+Revisar los planos urbanísticos y de licencias aprobadas superponiendo los predios que se afectan
+con el proyecto y solicitar copia de los mismos en los sectores involucrados en cada caso que
+aplique.
+Indagar el estado de actualización de la información catastral y de registro, para aquellos predios
+afectados, de acuerdo con el diseño.
+Determinar las zonas de terreno que forman parte de cargas generales y que deban ser
+entregadas a título gratuito para acceder a mayor edificabilidad en Planes Parciales.
+Consultar y analizar los registros de la autoridad catastral del municipio, así como posibles
+cambios que pudieran presentarse por la dinámica de la zona (englobes y desenglobes).
+
+Criterios para la realización del levantamiento topográfico:
+El equipo técnico debe tener en cuenta los siguientes aspectos al momento de realizar el levantamiento
+topográfico:
+11
+
+•
+•
+•
+
+•
+
+La información jurídica del inmueble, al momento de la medición como linderos, dimensiones del
+predio que será objeto del reconocimiento técnico.
+Cuando se trate de predios provenientes de un loteo y/o proyecto urbanístico aprobado mediante
+licencia por autoridad competente, se deberá tener en cuenta los planos aprobados.
+Las mediciones deben estar referenciadas al Sistema de Coordenadas Cartesianas Magna Sirgas
+(100.000, 100.000) y demás especificaciones técnicas contenida en la NORMA TÉCNICA
+COLOMBIANA NTC 6271 INFORMACIÓN GEOGRÁFICA. ESTUDIOS TOPOGRÁFICOS (2018). Para el
+caso en que se deba adquirir área parcial, este levantamiento deberá contener la información del
+área sobrante con su respectivo amojonamiento siempre y cuando el predio no sea de mayor
+extensión.
+No se realizará levantamiento topográfico, pero sí reconocimiento en unidades privadas sujetos a
+propiedad horizontal, excepto cuando la adquisición sea de bienes comunes. En todo caso, tanto
+bienes comunes como bienes privados tendrán un número de registro topográfico.
+
+En el reconocimiento se deberá verificar que la información contenida en boletín y manzana catastral,
+corresponda a la realidad actualizada de cada inmueble, para lo cual deberá adelantar la revisión,
+actualización y validación de la Información técnica, física y jurídica de todos y cada uno de los predios
+requeridos para la ejecución del proyecto. De no existir correlación entre la información jurídica y técnica,
+el profesional determinará a partir de criterios adecuados y con base en la documentación disponible, la
+identificación del inmueble, sustentando dicha determinación a través de la elaboración de un informe
+técnico que será anexado al expediente de cada predio.
+En caso de los proyectos de infraestructura de vías y transporte, cuando existan diferencias en las áreas
+entre el levantamiento predial y los títulos del inmueble, se deberá atender el procedimiento establecido
+en la Resolución 0193 del 20 de febrero de 2014 del IGAC que establece el procedimiento para la
+actualización de cabida y/o linderos de que trata el artículo 26 de la Ley 1682 de 2013. El profesional
+encargado, deberá suscribir un acta de visita predial y deberá dejar constancia de lo encontrado en campo
+tanto de áreas de terreno como las posibles afectaciones y construcciones firmada por el profesional que
+realizó la visita.
+De igual manera, cuando existan terrenos no incorporados en la base catastral y se haya verificado la
+mutación o segregación del terreno existente jurídicamente, se hará la solicitud de incorporación catastral
+ante la autoridad catastral correspondiente. Igualmente, cuando se identifique que el predio cuente con
+información catastral, pero carece de información jurídica, se hará una visita de campo, y con dicha
+información realizar un estudio técnico y jurídico con apoyo del abogado responsable de la adquisición, con
+el fin de determinar la correcta identificación del predio. Para esto, se deberá realizar las gestiones
+necesarias para obtener el folio de matrícula inmobiliaria ante la Oficina de Registro de Instrumentos
+Públicos de la jurisdicción y proceder a la incorporación en el inventario de predios de la autoridad catastral.
+
+Registro topográfico:
+Una vez efectuada la visita en campo y levantada la información existente en terreno, el profesional de la
+dependencia elaborará el registro topográfico previa asignación del número para este producto.
+
+12
+
+Cuando se trate de compra parcial, adicional a lo anterior el registro topográfico deberá indicar cómo
+mínimo la cabida de la parte restante del predio.
+En el evento en que las áreas del registro topográfico – RT, sean diferentes a las áreas establecidas en el
+Estudio de Títulos, será necesario requerir la certificación de cabida y linderos del inmueble a la autoridad
+catastral que corresponda, previo a la emisión de la oferta de compra y este documento servirá de base
+para la adquisición; dado el caso en que la certificación en mención sea emitida después de ofertado el
+predio, la oferta de compra debe ser modificada y ajustada al área que corresponda.
+El profesional encargado de levantar el registro topográfico deberá conformar un expediente para cada
+predio (carpeta única), el cual debe contener como mínimo: Manzana Catastral, Planos urbanísticos o de
+legalización y licencia urbanística, si existieren, informe técnico de visita predial con el registro fotográfico,
+Registro Topográfico – RT – aprobado y firmado, boletín catastral y la certificación de cabida y linderos, si
+se requiere.
+El ingreso de la información al sistema de información definido debe ser simultáneo a la realización del
+Registro Topográfico.
+Aquí, se deben generar las alertas de casos especiales y/o novedades que se identifican con el
+levantamiento de Registro topográfico, alertas para el equipo de parcialidades tales como predios que
+serán de adquisición total y que presentan englobes físicamente o comparten estructuras.
+
+Certificación de cabida y linderos:
+Si del levantamiento topográfico y de la información jurídica existente, se deduce que existen diferencias
+de cabida y linderos o no consta área en escritura pública, se deberá iniciar el trámite de actualización de
+cabida y linderos en el marco de lo establecido en la Resolución Conjunta IGAC 1101 SNR 11344 de 2020 y
+Resolución conjunta IGAC número 1101 SNR número 11344 de 2020 y la Ley 1682 de 2013, esta última en
+los casos de la infraestructura de vías y transporte.
+Culminada la actuación administrativa contemplada en la referida Resolución, no se requerirá de escritura
+de actualización de cabida y linderos, solo bastará que la autoridad catastral envíe a la Oficina de Registro
+de Instrumentos Públicos correspondiente, el certificado de plano predial catastral para su inscripción.
+En aquellos casos donde el área de adquisición que se refleja en el registro topográfico resultare ratificada
+mediante certificación de cabida y linderos, no será necesario actualizar el registro.
+
+Actualización del registro topográfico:
+En caso de ser necesaria la actualización del registro topográfico, el que sea objeto de actualización debe
+ser anulado y reemplazado por otro nuevo al que se le adicionará una letra, y deberá elaborarse un informe
+técnico que justifique y/o explique la modificación.
+Una vez aprobado el registro topográfico y conciliado con el equipo de adquisiciones, el profesional deberá
+incluir en el Sistema de Predios la información del registro topográfico.
+
+13
+
+3.2.2 Estudio de títulos
+Obtención de la información:
+El grupo a cargo del componente jurídico consultará la base predial suministrada por el componente
+técnico con la identificación de cada inmueble para efectos de iniciar la investigación jurídica.
+El profesional jurídico responsable deberá solicitar e incorporar al expediente la información jurídica que
+considere relevante (por ejemplo, las inscripciones de posesión regular), la totalidad de las escrituras
+públicas y providencias judiciales inscritas en los respectivos folios de matrículas inmobiliarias, a excepción
+de aquellas que se refieran a gravámenes o limitaciones.
+
+Elaboración estudio de títulos:
+El estudio de títulos, de cada predio, deberá contener el resultado del análisis de los títulos traslaticios y no
+traslaticios del dominio - a diez años - inscritos en el folio de matrícula inmobiliaria correspondiente. En los
+casos que así lo requieran, el estudio de títulos deberá remontarse hasta la fecha que sea necesaria para
+clarificar la titularidad del derecho de dominio.
+Para efectos de determinar la titularidad del derecho de dominio de los inmuebles, se entenderá como
+tracto sucesivo únicamente los actos traslaticios del dominio y en el estudio de títulos se deberá indicar
+cada una de las transferencias o mutaciones del dominio, los gravámenes, las limitaciones, las afectaciones
+y las condiciones resolutorias.
+Simultáneamente, con la elaboración de los registros topográficos, se debe dar inicio a la realización del
+Estudio de Títulos, una vez los predios tengan asignado un número de registro topográfico.
+
+3.2.3 Gestión para el restablecimiento de condiciones
+La gestión de restablecimiento de condiciones inicia con la aplicación del censo socioeconómico a los
+hogares, personas y actividades productivas que se encuentran en los predios que son objeto de
+adquisición. Una vez realizado el censo, se elabora la ficha de Caracterización Socio Económica de cada
+unidad a trasladar, con una identificación plena de las personas u unidades identificadas en los predios a
+adquirir y como resultado del análisis de estos documentos, se genera un Plan de Acción de
+Reasentamiento.
+Dicho plan es el conjunto de programas, proyectos y actividades planteadas como estrategias para la
+mitigación de los impactos socioeconómicos ocasionados por la adquisición de los predios. Está dirigido a
+asegurar el apoyo y acompañamiento a los hogares, personas y actividades económicas desplazadas por la
+ejecución de los proyectos o afectadas directamente por la adquisición predial mediante acciones
+conducentes a:
+
+14
+
+•
+
+•
+•
+
+Brindar apoyo y asesoría socio jurídica, social, inmobiliaria y socioeconómica durante todo el
+proceso de adquisición de los predios y durante el traslado a las unidades a trasladar que lo
+requieran.
+Gestionar los impactos socioeconómicos causados por la compra de los predios y el traslado de la
+población.
+Brindar el acompañamiento socio-jurídico a las unidades identificadas durante todo el proceso de
+adquisición de las viviendas de reposición, garantizando seguridad de la tenencia y viabilidad
+jurídica frente a los inmuebles de reemplazo.
+
+El plan de acción debe contar con tres componentes: El social que contempla cuatro asesorías; social,
+jurídica, económica e inmobiliaria; el componente económico, que tiene como objetivo el reconocimiento
+económico de factores de compensación según tenencia y uso de las unidades respecto al predio y el
+componente del programa de acompañamiento. Estos tres componentes se describen a continuación.
+
+Componente social:
+Asesoría Social: Busca acompañar el proceso de identificación, mitigación y atención integral a los impactos
+sociales y socioeconómicos evidenciados en las poblaciones donde se realizan procesos de adquisición
+predial; realizando gestiones internas y de tipo interinstitucional para lograr restablecer los medios de vida
+de las unidades sociales: dimensión física, económica, humana y social.
+Asesoría Socio Jurídica: Profesionales pertenecientes al área social, que se encargan de acompañar desde
+un eje jurídico complementario el proceso de adquisición predial, realizando apoyos estratégicos a
+unidades sociales con limitaciones de dominio; de forma paralela, se brindan asesorías para la compra de
+inmuebles de reemplazo de las unidades sociales propietarias y poseedoras buscando reducir impactos que
+desestabilicen la seguridad de la tenencia de las poblaciones.
+Asesoría Socio Económica: Esta asesoría está dirigida a la población que desarrolla actividades económicas
+en los predios requeridos por la entidad a cargo del proyecto, especialmente micro y pequeñas empresas;
+se genera acompañamiento transversal durante la adquisición predial para el cálculo de reconocimientos
+económicos.
+Asesoría Inmobiliaria: Esta asesoría tiene como finalidad, realizar acompañamientos durante el proceso de
+adquisición predial con aquellos predios que tienen una afectación de tipo parcial y total en sus
+construcciones o zonas de terreno, acompañando técnicamente a las comunidades en la resolución de
+inquietudes y elaboración de conceptos estructurales que impliquen la reposición de estructuras o
+fachadas; por otra parte, en lo que respecta a la fase de traslado de las poblaciones, se generan visitas y
+factibilidades de los predios de reemplazo, las cuales se emiten como concepto, pero es menester de las
+unidades sociales tener o no en cuenta este diagnóstico.
+
+Componente económico:
+Este componente tiene por objeto contribuir a minimizar los impactos generados por el desplazamiento,
+mediante el pago de una suma de dinero, (reconocimiento de un factor de compensación) soportado en
+
+15
+
+los documentos aportados por las unidades familiares a trasladar, según el uso y la tenencia respecto al
+predio en adquisición.
+Si bien, este no está definido explícitamente en normas nacionales y depende de la reglamentación
+municipal o distrital, se dejan las siguientes recomendaciones, consolidadas a partir de la experiencia de
+las entidades del Distrito como el Instituto de Desarrollo Urbano – IDU – o la Agencia Nacional de
+Infraestructura – ANI:
+Factor de Movilización: Corresponde al reconocimiento y pago por concepto de gastos de mudanza que se
+hace a los propietarios, poseedores, tenedores, arrendatarios, subarrendatarios o usufructuarios que
+residan y/o desarrollen directamente una actividad productiva y deban desplazarse del inmueble requerido
+por la entidad a cargo del proyecto.
+Factor por Trámite: Corresponde al reconocimiento que se hace a los propietarios del inmueble por los
+costos en los que incurren con motivo de Ia escrituración de éste a favor de la entidad que desarrolla el
+proyecto, equivalente al 1.5% del valor del avalúo comercial del inmueble.
+Para propietarios o poseedores residentes que repongan su vivienda, se les reconocerá, adicionalmente, el
+1.5% del valor del avalúo del inmueble enajenado en el caso de los primeros, y el 1.5% del valor de la
+construcción para los segundos.
+Factor por Pérdida de Ingresos: En caso de que el avalúo del inmueble requerido por la entidad no
+contemple la evaluación por la suspensión temporal o definitiva de la actividad productiva, a la que se
+refiere el Decreto 1420 de 1998, se reconocerá y pagará el factor por pérdida de ingresos por actividad
+productiva y/o renta.
+Factor por Traslado de Arrendatarios: Este factor se reconocerá y pagará a quienes hayan sido identificados
+como arrendatarios en el censo y diagnóstico socioeconómico. El valor que se reconocerá y pagará por este
+concepto será el equivalente a tres veces el canon de arrendamiento mensual del inmueble requerido por
+la entidad a cargo del proyecto. Este factor no podrá ser en ningún caso inferior a un (1) salario mínimo
+legal mensual vigente, ni superior a tres salarios mínimos legales mensuales vigentes.
+Factor de Vivienda de Reposición: Se reconoce a los propietarios o poseedores residentes que deban
+desplazarse del inmueble requerido por la entidad a cargo del proyecto, cuando la suma del valor
+correspondiente al avalúo comercial del inmueble, sea inferior al valor máximo de una vivienda de interés
+social.
+Factor de Reasentamiento de Emergencia: Este factor se reconocerá y pagará, con carácter excepcional, a
+los propietarios o poseedores residentes de predios que deban ser entregados y que por inconvenientes
+jurídicos no se haya podido llevar a cabo su enajenación voluntaria. El pago del presente factor se realizará
+únicamente por razones de urgencia e inminencia en la ejecución de las obras.
+
+Programa de acompañamiento:
+Se realiza con el fin de minimizar los impactos socioeconómicos negativos causados a las unidades
+identificadas en el censo, diagnostico socioeconómico, estudio de impactos y plan de acción de
+reasentamiento como poseedores residentes de los predios que son requeridos para los proyectos. Cabe
+16
+
+anotar que las unidades poseedoras deberán adjuntar las pruebas documentales o testimoniales que
+puedan corroborar la condición.
+Prima de reasentamiento: Es la suma de dinero que se reconocerá y pagará a las unidades identificadas
+que ostenten la calidad de poseedores residentes de los inmuebles requeridos por obra. El valor de la prima
+de reasentamiento será una suma equivalente al valor de las mejoras que se encuentra determinado en el
+avalúo elaborado por la entidad a cargo del proyecto. Si el valor de las mejoras es inferior a cincuenta
+SMMLV, se reconocerá adicionalmente el factor de vivienda de reposición, que permita que la unidad
+poseedora residente pueda acceder a como mínimo una vivienda de interés social tipo I.
+
+Otros factores:
+Las medidas complementarias se pagarán de acuerdo con el proyecto y los requisitos estipulados en las
+normas vigentes al momento del proceso de adquisición.
+Las medidas complementarias son para todas las unidades personales o familiares cuyo valor del avalúo
+comercial, indemnizaciones y compensaciones no sean suficientes para reponer su vivienda y restaurar su
+actividad económica y sus medios de vida, en condiciones por lo menos similares o mejores a las que tenían,
+en caso de que sus condiciones sean subnormales.
+Se establecerá una resolución amparada con recursos presupuestales para cumplir con lo establecido en
+este plan de reasentamiento. La autorización general para expedir la resolución y disponer de los recursos
+necesarios se debe discutir en el comité de reasentamiento que se institucionalice para tal fin.
+Las medidas complementarias son:
+•
+
+•
+
+•
+
+Reconocimiento de la depreciación para alcanzar el valor de reposición: Es el reconocimiento de la
+depreciación para alcanzar el pago de costo de reposición sin depreciación, específicamente para
+los hogares afectados por traslado físico o económico de todos los tipos de tenencias. Se excluyen
+de esta medida predios comerciales a cuyos propietarios no se les afectan los medios de
+subsistencia y no se están en situación de vulnerabilidad. Otras unidades que usufructúan estos
+predios si tendrán las medidas pertinentes dependiendo del impacto.
+Complemento para restitución de vivienda similar o mejor a la pérdida: El acto administrativo de
+las medidas complementarias estará amparado en los recursos presupuestales para asegurar que
+el valor de reposición sea suficiente para restituir los inmuebles perdidos en iguales o mejores
+condiciones si se trata de inmuebles en condición subnormal. En ambos casos con seguridad de
+tenencia.
+Adicionalmente se contará con el programa de adquisición y reposición de inmuebles afectados
+como soporte necesario para garantizar que las familias adquieran un inmueble. La asesoría
+inmobiliaria se realiza a todas las unidades identificadas.
+Complemento para nivelar pérdida de ingresos por actividad económica: El acto administrativo de
+medidas complementarias incluirá recursos para equiparar el pago de daño emergente y lucro
+cesante previsto para propietarios como un factor de pérdida de ingresos a todas las tenencias y
+población afectada al nivel de lo previsto para propietarios, es decir hasta seis meses de lucro
+cesante. Esto incluye a vendedores ambulantes y empleados.
+
+17
+
+3.2.4 Avalúos comerciales
+El componente de Avalúos solicita, revisa y aprueba los informes técnicos de avalúos comerciales
+elaborados por la entidad competente contratada para este fin, velando porque éstos cumplan con lo
+reglamentado en la normatividad valuatoria colombiana vigente.
+El proceso de solicitud de avalúo procede cuando por parte del articulador jurídico se hace el requerimiento
+vía correo electrónico anexando la documentación requerida para tal fin: Registro topográfico, cuadro de
+áreas, folio de matrícula inmobiliaria con una vigencia no mayor a 3 meses, reglamento de propiedad
+horizontal si aplica; por parte del componente económico, se debe suministrar revisar y aprobar la tasación
+de daño emergente y lucro cesante cuando proceda y en el caso de las parcialidades se debe adjuntar el
+informe de intervención estructural.
+Una vez radicado el avalúo por parte del avaluador, éste es revisado advirtiendo que si se encuentra alguna
+inconsistencia se solicitará la revisión y/o impugnación dentro del término legal (se debe presentar dentro
+de los cinco días hábiles siguientes a la radicación del avalúo) a fin de que se suministre correctamente la
+información o se modifique el valor determinado.
+En caso de que se modifique el RT por cambio de áreas (terreno, construcción), se entiende como un nuevo
+avalúo, razón por la cual se debe proceder con una solicitud nueva.
+
+3.3 Actividades en la adquisición predial
+En todos los casos, para efectos del proceso de adquisición predial, la entidad a cargo debe seguir los
+procedimientos establecidos en el artículo 61 de la Ley 388 de 1997, la Ley 9 de 1989, y las demás normas
+aplicables o que las sustituyan o modifiquen.
+Para dar inicio al proceso de adquisición predial es necesario contar con los siguientes productos, resultado
+de las actividades de la gestión predial:
+•
+•
+•
+•
+•
+•
+•
+
+Resolución de anuncio del proyecto (según el caso)
+Acto administrativo con la reserva, sí la normatividad vigente en la materia lo exige
+Decreto que declare la existencia de las condiciones especiales de urgencia que habilitan la
+posibilidad de acudir a la expropiación por vía administrativa
+Registro topográfico
+Estudio de títulos
+Informe Técnico de Avalúo comercial vigente
+Certificado de Disponibilidad presupuestal
+
+A continuación se desarrollan las principales actividades del proceso de adquisición.
+
+18
+
+3.3.1 Oferta de compra
+La entidad debe proferir la oferta de compra mediante un acto administrativo dirigido al titular de dominio,
+poseedor regular inscrito, herederos determinados e indeterminados y/o titulares de derechos reales, el
+cual se debe notificar de conformidad con lo previsto en el CPACA, Ley 1437 de 2011.
+A partir del día hábil siguiente de haberse realizado la notificación de la oferta de compra, las partes tendrán
+treinta días hábiles, para llegar a un acuerdo formal contenido en un contrato de promesa de compraventa
+y/o escritura pública. Si transcurridos este periodo, no se ha llegado a un acuerdo formal para la
+enajenación voluntaria, contenido en un contrato de promesa de compraventa, se deberá iniciar el proceso
+de expropiación, de conformidad con lo establecido en los artículos 61 y 66 de la Ley 388 de 19971
+
+3.3.2 Contrato de compraventa
+Documento contentivo del acuerdo de voluntades entre la entidad y el propietario o poseedor regular
+inscrito del inmueble objeto de adquisición, que se suscribe previa verificación que la oferta de compra se
+encuentre registrada en el folio de matrícula correspondiente.
+Se recomienda que el contrato de promesa de compraventa se elabore de conformidad con las plantillas o
+modelos de contratos que estén parametrizados en el sistema de información de la entidad establecido
+para tal fin, el abogado deberá revisar el estudio de títulos y determinar las condiciones y obligaciones del
+contrato.
+
+Forma de pago:
+El pago se debe pactar en las respectivas promesas de compraventa en dos contados. No obstante, el
+número de pagos podrá variar en atención a normativa especial que aplique para cada proyecto, o por las
+necesidades particulares del proceso predial del inmueble.
+Para que se realice el último pago se deberá acreditar previamente, la entrega del inmueble conforme a
+los protocolos establecidos para el recibo del predio y el mismo no tenga ninguna limitación al derecho de
+dominio, gravamen, medida cautelar, pleito pendiente, entre otros. En razón a lo anterior, es necesario
+que al momento de pactar el pago del precio se tenga en cuenta si el inmueble soporta limitaciones,
+gravámenes y medidas cautelares, con el fin de supeditar el último contado al saneamiento de tales
+medidas, siempre su levantamiento sea jurídicamente viable. En todo caso es necesario garantizar los
+derechos de los acreedores y, en los casos de proyectos de infraestructura de vías y transporte, se debe
+1
+
+Para el caso de la infraestructura de vías y transporte deberá tenerse en cuenta:
+a. Según lo dispuesto por el artículo 10 de la Ley 1882 de 2018 que modificó el artículo 25 de la Ley 1682 de 2013, que a su vez
+había sido modificado por el artículo 4 Ley 1742 de 2014, la entidad a cargo podrá proceder a expedir directamente la resolución
+de expropiación sin necesidad de expedir oferta de compra en los eventos señalados en dicha disposición normativa.
+b. En el evento en que el estudio de títulos advierta que existe un poseedor regular inscrito se dará aplicación al procedimiento
+establecido en el artículo 21 de la Ley 1682 de 2013, reglamentado mediante Decreto 737 de 2014 y se aplicará el procedimiento
+para lograr el saneamiento automático.
+
+19
+
+verificar si aplica el supuesto que prevé el artículo 22 de la Ley 1682 de 2013 modificado por el artículo 8
+de la Ley 1882 de 2018 y/o el artículo 64 de la Ley 1579 de 2012 o las normas que los sustituyan, modifiquen
+o reemplacen.
+Se puede pactar el pago del 100% del valor del inmueble cuando este no reporte ninguna obligación
+pendiente, se encuentren cancelados y/o traslados los servicios públicos y se haya entregado de forma
+anticipada el inmueble. Para el efecto, se debe suscribir la escritura pública de inmediato, previo reparto
+notarial y el valor será cancelado por la entidad, una vez se encuentre la escritura pública debidamente
+registrada.
+Legalizado el contrato de promesa de compraventa y/o la escritura pública, contando con el registro
+presupuestal, el abogado responsable debe realizar la programación de pagos en la Programación Anual
+de Caja para la ejecución de los pagos al beneficiario.
+El trámite del pago deberá atender las obligaciones suscritas en el contrato de promesa de compraventa
+y/o resolución de expropiación, previo cumplimiento de los lineamientos establecidos en las guías de pagos
+a terceros de las entidades que se encuentren vigentes y/o en los lineamientos establecidos por el pagador
+en virtud del convenio y/o contrato que corresponda.
+
+3.3.3 Entrega y recibo del inmueble
+El inmueble se recibirá conforme a lo pactado en el contrato de promesa de compraventa. No obstante, el
+inmueble se podrá recibir de manera anticipada de acuerdo a lo establecido en la Ley.
+Los actores que intervendrán en esta entrega podrán ser, el propietario, el poseedor regular inscrito, el
+autorizado o quien se señale en el contrato de promesa de compraventa.
+Para el recibo del predio por parte de la entidad, el funcionario encargado debe verificar que el inmueble
+se encuentre desocupado y que no cuente con acometidas de servicios públicos.
+Si se presentan condiciones físicas de abandono, desmantelamiento, vandalismo, amenaza de ruina,
+demolición informal y cualquier circunstancia que genere un riesgo de inseguridad para los propietarios,
+residentes, habitantes y transeúntes del sector únicamente, la entidad podrá realizar la intervención y
+aprehensión de la zona de terreno requerida, y proceder a la demolición de las construcciones, el retiro de
+escombros y al cerramiento del área requerida; aunque no se haya acreditado el taponamiento y
+cancelación de los servicios públicos, sin perjuicio, de continuar en cabeza de sus titulares, la
+responsabilidad del taponamiento y cancelación de los servicios públicos. Esta facultad deberá quedar
+pactada en el contrato de promesa de compraventa.
+En la visita de entrega, el funcionario encargado del recibo de los predios, constatará en campo que las
+condiciones físicas y técnicas establecidas, en el registro topográfico sean las mismas que recibe la entidad,
+para el efecto se suscribirá el formato acta de recibo del inmueble vigente, la cual contendrá el área de
+registro topográfico, que se recibe o en su defecto el área certificada por cabida y linderos expedida por la
+autoridad catastral, el estado de las construcciones, servicios públicos instalados o cancelados y demás
+circunstancias que al momento de la visita se encuentren.
+
+20
+
+3.3.4 Escritura pública y transferencia de dominio
+La minuta de escritura pública debe ser elaborada por el abogado encargado por la entidad y será sometida
+a reparto notarial. Una vez asignada la Notaría, se debe informar al titular del derecho de dominio o
+poseedor, siempre que este sea inscrito de conformidad con las leyes vigentes, para llevar a cabo la
+correspondiente firma.
+Suscrita la escritura pública de compraventa, esta deberá ser sometida al trámite de registro ante la
+respectiva Oficina de Registro de Instrumentos Públicos, acompañada del oficio de cancelación de la oferta
+de compra.
+El pago del saldo del precio de la compraventa, se hará directamente por la entidad al beneficiario una vez
+registrada la escritura pública y verificado el cumplimiento de cada una de las obligaciones contenidas en
+la misma.
+Si el propietario o poseedor inscrito no cumpliere con la obligación de transferir el derecho de dominio con
+la firma de la escritura pública de compraventa y el registro ante la Oficina de Registro de Instrumentos
+Públicos correspondiente, se expedirá la resolución de expropiación administrativa o judicial según el
+procedimiento establecido en las normas vigentes.
+
+3.4 Expropiación
+Una vez notificada la oferta de compra y transcurridos treinta (30) días hábiles siguientes a la misma y no
+haya acuerdo escrito y/o cuando haya silencio respecto de la misma, o se manifieste la no aceptación de la
+oferta de compra, o haya un incumplimiento del contrato de promesa de compraventa, el abogado
+responsable, deberá iniciar el proceso de expropiación, para lo cual deberá expedir acto administrativo
+mediante el cual se ordena dar inicio a la expropiación judicial o se ordena la expropiación por vía
+administrativa, según sea el caso.
+En caso de acudirse al procedimiento regulado en la Ley 388 de 1997 se deberá contar de manera previa
+con los requisitos mencionados en el numeral 5.5 y los insumos correspondientes.
+Según se trate si la gestión predial se realiza a través del procedimiento regulado en la Ley 388 de 1997
+(expropiación por vía administrativa) o de la Ley 9 de 1989 (expropiación por vía judicial).
+
+3.4.1 Expropiación judicial
+La expropiación judicial debe ser utilizada en aquellos casos en los cuales, no se cuenta con los requisitos
+legales establecidos en los artículos 63 al 66 de la Ley 388 de 1997 para adelantar el trámite de adquisición
+predial por expropiación administrativa.
+Una vez expedido y notificado el oficio de oferta de compra y transcurrido el término de treinta días, para
+la conclusión de la negociación sin que esta termine en enajenación del bien, se debe expedir el acto
+21
+
+administrativo por medio del cual se ordena la expropiación judicial, contra la cual, únicamente procede el
+recurso de reposición dentro de los diez días hábiles siguientes contados a partir de su notificación.
+Dentro de los tres meses siguientes a la fecha en la cual queda en firme la resolución que ordena la
+expropiación, se debe proceder a la presentación de la demanda de acuerdo a lo establecido en el Código
+General del Proceso, numeral 2 y subsiguientes del artículo 399.
+En la sentencia se ordena el levantamiento de los gravámenes existentes y la inscripción de la sentencia y
+el acta de entrega que sirven como título de dominio al demandante; contra la sentencia de expropiación,
+procede el recurso de apelación en el efecto devolutivo.
+Para proceder con la inscripción de la sentencia que decreta la expropiación a favor de la institución, se
+deben solicitar copias auténticas de la sentencia al juzgado que la profirió, una vez se ordenen mediante
+auto del juzgado y se expidan, se procede a hacer la inscripción de la misma en el Folio de Matrícula
+Inmobiliaria correspondiente. Una vez proferida e inscrita la sentencia, inicia el debate probatorio con el
+fin de determinar el valor final del daño emergente y el lucro cesante. El proceso de expropiación judicial
+termina, una vez quede en firme el avalúo ordenado y se acredite el pago de la totalidad de las sumas
+ordenadas.
+
+3.4.2 Expropiación administrativa
+De no lograrse un acuerdo formal para la enajenación voluntaria o ante el incumplimiento de las
+obligaciones establecidas en el contrato de promesa de compraventa, o la manifestación expresa de no
+aceptación de la oferta de compra o si se guardaré silencio respecto de la misma, se ordenará la
+expropiación por vía administrativa mediante resolución, la cual deberá dirigirse al destinatario de la oferta
+de compra.
+La resolución que ordene la expropiación del inmueble deberá ser notificada conforme a las normas
+previstas en la Ley 1437 de 2011, CPACA.
+Contra dicha Resolución de Expropiación procede únicamente el recurso de reposición, el cual deberá
+interponerse dentro de los diez días hábiles siguientes a su notificación y la entidad expropiante deberá
+resolverlo dentro de los diez días hábiles siguientes a la fecha de su interposición de conformidad con la
+normatividad vigente.
+En caso de que una vez presentado el recurso, sea del caso practicar pruebas, se deberá emitir un auto de
+pruebas, el cual deberá señalar: i) las pruebas que se requieran aportar y ii) el término concedido para ello,
+el cual no podrá ser mayor de treinta días. Los términos inferiores podrán prorrogarse por una sola vez, sin
+que con la prórroga el término exceda de treinta días, todo de conformidad con el artículo 79 de la Ley
+1437 de 2011. La práctica de pruebas, suspenderán los términos para resolver el recurso presentado.
+El recurso de reposición podrá ser resuelto favorablemente para el recurrente, en tal evento si hay lugar al
+reconocimiento de un valor adicional, será necesario contar con el respaldo presupuestal correspondiente
+y se procederá a la modificación o la revocatoria de la Resolución de Expropiación según corresponda o
+podrá confirmar el acto administrativo que ordenó la expropiación del inmueble.
+
+22
+
+En todo caso, la resolución que resuelva el recurso de reposición deberá ser notificada conforme a lo
+establecido en el CPACA y deberá expedirse la respectiva constancia de ejecutoria.
+Una vez expedida la constancia de ejecutoria de la Resolución por la cual se ordena la expropiación o
+aquella por la cual se resuelve el recurso de reposición, la entidad a cargo pondrá a disposición de los
+beneficiarios el valor del precio indemnizatorio, mediante un medio que garantice el pago de acuerdo con
+lo dispuesto en el acto administrativo.
+Si la información requerida para realizar el pago no es aportada por el beneficiario o no es posible poner a
+disposición el valor indemnizatorio dentro de los diez días hábiles siguientes, conforme a lo dispuesto en el
+numeral 2 del artículo 70 de la ley 388 de 1997, la entidad deberá constituir un depósito judicial, esto es
+consignar dichos valores en las oficinas del Banco Agrario de Colombia S.A., a órdenes de los despachos de
+la Rama Judicial o autoridad que corresponda, a favor de los beneficiarios identificados en el acto
+administrativo.
+De igual forma se debe entregar copia de la consignación al Tribunal Administrativo de Cundinamarca,
+dentro de los diez días siguientes, considerándose que ha quedado formalmente hecho el pago.
+Una vez notificada la resolución de expropiación y debidamente ejecutoriada y efectuado el
+correspondiente pago se solicitará a la Oficina de Registro de Instrumentos Públicos, la inscripción de dicha
+resolución, adjuntando copia de la consignación o del pago, comunicación de cancelación de la oferta de
+compra y la constancia de ejecutoria.
+En el caso de que se realicen pagos a acreedores o a terceros autorizados por el propietario, se deberá
+acreditar el pago ante la Oficina de Instrumentos Públicos correspondiente.
+Realizado el pago del precio indemnizatorio, la entidad expropiante requerirá al titular del derecho de
+dominio o poseedor regular inscrito, la entrega voluntaria del inmueble, señalando que de no realizar dicha
+entrega se acudirá a la misma a través de diligencia policiva de conformidad con las normas vigentes.
+En el acto administrativo de expropiación, se debe prever la cancelación de todos los gravámenes,
+limitaciones, medidas cautelares y afectaciones en caso de aplicar. En el evento del artículo 61 de la Ley
+388 de 1997, cuando no se encuentren registradas medidas cautelares, limitaciones al derecho de dominio,
+gravámenes y el propietario solicite volver a la enajenación voluntaria antes de la ejecutoria de la
+expropiación, se deberá revocar la expropiación conforme a las causales del artículo 97 del CPACA. Así
+mismo, cuando la resolución de expropiación esté ejecutoriada, existe la eventualidad que, ante el acuerdo
+que se logre con el propietario, esta podrá ser objeto de pérdida de fuerza ejecutoria de conformidad con
+las causales previstas en el artículo 91 del CPACA.
+
+23
+
+4 Glosario
+ADQUISICIÓN PREDIAL: Proceso conducente a obtener la titularidad y la disponibilidad de los predios a
+favor de una entidad pública, conforme al marco normativo contenido de las Leyes 9 de 1989, 388 de 1997
+y 1682 de 2013.
+ANUNCIO DEL PROYECTO: Acto administrativo, mediante el cual la Entidad anuncia una obra de utilidad
+pública, en los términos establecidos en el Decreto 2729 de 2012.
+ÁREA: Es una medida de extensión de una superficie, expresada bajo el estándar del sistema internacional
+de unidades. En los términos establecidos en la resolución IGAC 1101 SNR 11344 de 2020.
+ÁREA EN RESERVA VIAL: Es el área del predio (parcial o total) que se necesita para la ejecución de la obra y
+proyecto, la cual será identificada en el registro topográfico.
+ÁREA REMANENTE: Se refiere a aquella área de un predio que, de ser considerada como un Área Sobrante,
+quedaría afectada en cuanto a su funcionalidad y a su potencial desarrollo, por efectos de lo previsto en el
+Plan de Ordenamiento Territorial y demás normatividad aplicable.
+ÁREA SOBRANTE: Se refiere a la porción de un predio que, por no ser requerida para el desarrollo del
+Proyecto, no requiere ser adquirida como parte de la Gestión Predial.
+ÁREA CONSTRUIDA: Se refiere a la unión de materiales adheridos al terreno con carácter permanente,
+cualesquiera sean los elementos que la constituyen. (Resolución 070 de 2011 IGAC).
+ÁREA DE INFLUENCIA DEL PROYECTO: Territorio en el que se manifiestan los impactos que el Proyecto
+pueda generar durante las etapas de pre-construcción, construcción y operación.
+ÁREA DE INFLUENCIA DIRECTA (AID): Es aquella zona de espacio urbano en donde se manifiestan los
+impactos generados por las actividades de construcción y operación; está relacionada con el sitio del
+proyecto y su infraestructura asociada, en la que coexisten accesos a garajes, viviendas y negocios
+comerciales.
+ÁREA DE INFLUENCIA INDIRECTA (AII): Territorio en el que se manifiestan los impactos que ocurren en un
+sitio diferente a donde se producirá la acción generadora del impacto, y en un tiempo posterior y/o alterno
+con relación al momento en el que ocurrió la acción provocadora del impacto.
+ARRENDATARIO: Persona natural o jurídica con quien el propietario del inmueble celebra un contrato en el
+que las dos partes se obligan recíprocamente, la una a conceder el goce de una cosa y la otra a pagar por
+este goce, para efectos de este manual se trata del contrato de arrendamiento para uso y goce del
+inmueble, en los términos establecidos en los artículos 1974 y siguientes del Código Civil. Si se trata de
+arrendamiento de establecimientos de comercio se tendrá en cuenta lo reglamentado en el Código de
+Comercio artículos 518 y siguientes.
+AUTOS: Son actos administrativos de mero trámite, que permiten dejar la trazabilidad de hechos relevantes
+acontecidos durante el trámite de gestión y adquisición predial, los cuales presentan las siguientes
+tipologías: i) de pruebas, ii) de impulso, iii) de mejor proveer.
+
+24
+
+AVALÚO CATASTRAL: Es el valor de un predio, resultante de un ejercicio técnico que, en ningún caso, podrá
+ser inferior al 60% del valor comercial o superar el valor de este último. Para su determinación no será
+necesario calcular de manera separada el valor del suelo y el de la construcción.
+AVALÚO COMERCIAL: Informe Técnico, que contiene el valor comercial de un inmueble, aplicando las
+disposiciones normativas definidas en el Decreto 1420 de 1998 y Resolución 620 de 2008, o las normas que
+las modifiquen, en procesos de adquisición por utilidad pública. Dichos avalúos serán realizados por el
+Instituto Geográfico Agustín Codazzi (IGAC) o la autoridad catastral correspondiente o las personas
+naturales o jurídicas de carácter privado registradas y autorizadas por las Lonjas de Propiedad Raíz.
+CERTIFICADO DE DISPONIBILIDAD PRESUPUESTAL (CDP): Es el documento que garantiza que existe
+Apropiación Presupuestal para atender gastos que se originen en el cumplimiento de algún compromiso
+que se planee adquirir.
+CERTIFICADO DE REGISTRO PRESUPUESTAL: Se entiende por registro presupuestal del compromiso, la
+imputación presupuestal mediante la cual se afecta en forma definitiva la apropiación, garantizando que
+ésta, sólo se utilizará para ese fin.
+CENSO DE POBLACIÓN: Proceso metodológico de recolección, compilación y sistematización de la
+información (espacial, física, demográfica, económica, psicosocial y cultural) de la población residente o
+que adelanta alguna actividad económica en los predios que se requieren para la construcción del proyecto,
+los cuales serán objeto de adquisición.
+COMPENSACIONES: Reconocimientos económicos a favor de diferentes tenencias (no incluye propietario,
+ni poseedor regular inscrito) que hace la entidad a cargo del proyecto, los cuales tienen por objeto
+minimizar los impactos socioeconómicos generados por el desplazamiento involuntario. Estos
+reconocimientos se pagarán, por una sola vez, a las unidades identificadas y ubicadas en los inmuebles
+requeridos para la ejecución del proyecto en el censo y diagnóstico socioeconómico.
+CONDICIONES DE URGENCIA: Son los establecidos en el artículo 65 de la Ley 388 de 1997 y que el Alcalde
+municipal o distrital, invoca mediante acto administrativo para las obras requeridas por la entidad, con el
+fin de adelantar el proceso de expropiación administrativa.
+CONTRATO DE PROMESA DE COMPRAVENTA: Acuerdo formal para la enajenación voluntaria entre la
+entidad y el propietario y/o poseedor regular inscrito del predio requerido de acuerdo a lo establecido en
+la oferta de compra.
+DAÑO EMERGENTE: Corresponde a la pérdida económica asociada al proceso de adquisición predial por
+los diferentes conceptos demostrables en que debe incurrir el propietario del predio para reponer un bien
+semejante al que se adquiere por motivos de utilidad pública de acuerdo a lo establecido resoluciones 898
+del 2014 y 1044 del 2014.
+DEPÓSITOS JUDICIALES: Son las cantidades de dinero que, de conformidad con las disposiciones legales
+vigentes, deben depositarse y/o consignarse a órdenes de los despachos de la Rama Judicial o de la
+autoridad que corresponda, por concepto de expropiación administrativa, a favor del titular del derecho
+de dominio o de un tercero (acreedor) y que son depositadas en las oficinas del Banco Agrario de Colombia
+S.A. de la localidad donde esté radicada la cuenta del despacho que lo autoriza y/o la sucursal del Banco
+dispuesta en la ciudad de Bogotá.
+25
+
+DIAGNÓSTICO SOCIOECONÓMICO: Documento que contiene el análisis de la información captada en la
+etapa censal de los proyectos de infraestructura, cuya afectación a ciertas comunidades se centra en la
+compra predio y su traslado.
+ESCRITURA PÚBLICA DE COMPRAVENTA: Instrumento público otorgado ante notario público que
+perfecciona el contrato de promesa de compraventa y que contiene el acuerdo de voluntades entre la
+entidad y el particular enajenante, con la cual se culmina el procedimiento de enajenación voluntaria.
+EXPROPIACIÓN: Operación pública del Estado dirigida a incorporar a su dominio bienes inmuebles
+propiedad de particulares, por motivos de interés general, para ser destinados a una obra de utilidad
+pública, previo el pago de una indemnización. La expropiación puede adelantarse por vía judicial o
+administrativa siempre y cuando se cumplan con los requisitos establecidos en la Ley.
+IDENTIFICACIÓN PREDIAL: Es la verificación de los elementos físicos y jurídicos del predio, mediante la
+práctica de la inspección catastral para identificar su ubicación, linderos, extensión, mejoras por
+edificaciones y precisar el derecho de propiedad o de posesión.
+INMUEBLE: Son las cosas que no pueden transportarse de un lugar a otro; como las tierras y minas, las que
+adhieren permanentemente a ellas, como los edificios, los árboles. Las casas y veredas, se llaman predios
+o fundos.
+IMPACTO: Cambios o alteraciones causados por el proyecto a las condiciones socioeconómicas y culturales
+iniciales de las unidades identificadas, en relación con su condición final posterior al desarrollo del proyecto.
+Para efectuar el seguimiento o monitoreo de los impactos identificados, se recomienda realizar una
+evaluación durante el proyecto y otra al final de este.
+LEVANTAMIENTO TOPOGRÁFICO: Conjunto de operaciones ejecutadas sobre el terreno con los
+instrumentos adecuados, para representar sobre un plano los rasgos característicos naturales y antrópicos
+de la superficie terrestre.
+LEVANTAMIENTO PLANIMÉTRICO PREDIAL: Conjunto de operaciones ejecutadas sobre el terreno con los
+instrumentos adecuados, para representar el bien inmueble en un plano horizontal, sobre el cual se
+proyectan los linderos y construcciones.
+LUCRO CESANTE: Ganancia o provecho dejado de percibir por concepto de renta o utilidad demostrable,
+el cual se ha dejado de percibir por el término de seis (6) meses como máximo, como consecuencia del
+cese de la actividad debido a la adquisición del inmueble por motivos de utilidad pública.
+MEJORA: Constituye uno o más atributos adicionales al terreno que le agregan valor al bien inmueble como
+producto de una intervención antrópica, entre las que se consideran cultivos, construcciones, sistemas de
+riego, pozos, entre otras.
+MOTIVOS DE UTILIDAD PÚBLICA: Son los definidos en el artículo 58 de la Ley 388 de 1997.
+MUTACIÓN CATASTRAL: Todo cambio que sobrevenga respecto de los elementos físicos, jurídicos o
+económicos de los predios cuando sea debidamente inscrito en el Catastro.
+OCUPANTE DEL ESPACIO PÚBLICO: En el marco del proyecto, se entenderá como aquellos vendedores que
+se dediquen voluntariamente al comercio informal de bienes o servicios en el espacio público, como medio
+básico de subsistencia.
+26
+
+OFERTA DE COMPRA: Acto Administrativo de trámite expedido por la entidad, mediante el cual se dispone
+la adquisición de un bien mediante enajenación voluntaria directa y que deberá contener como mínimo, la
+transcripción de las normas que reglamentan la enajenación voluntaria y la expropiación, la identificación
+precisa del inmueble, y el precio base de la negociación; contra este acto administrativo no proceden
+recursos o acción contencioso administrativa.
+La oferta de compra deberá ser inscrita por la entidad, en el folio de matrícula inmobiliaria del inmueble
+después de su notificación.
+PLAN DE ACCIÓN DE REASENTAMIENTO: Marco de actuación integral orientado a la atención y
+acompañamiento de la población objeto del desplazamiento involuntario, cuyo propósito es mitigar y
+compensar sus efectos o impactos negativos y restablecer tanto sus condiciones socioeconómicas, como
+sus medios de subsistencia.
+POSEEDOR REGULAR INSCRITO: Persona natural o jurídica que cumpliendo con los requisitos exigidos en la
+Ley y atendiendo el procedimiento establecido ante notario, obtenga la inscripción de su calidad de
+poseedor regular inscrito ante la Oficina de Registro de Instrumento Públicos.
+POSESIÓN: Tenencia de una cosa determinada con ánimo de señor o dueño, sea que el dueño o el que se
+da por tal, tenga la cosa por sí mismo, o por otra persona que la tenga en lugar y a nombre de él.
+PREDIO: Extensión de terreno delimitada e individualizada tanto jurídica como espacialmente, la cual puede
+presentar diversidad en construcciones (casas, apartamentos, bodegas, edificios, entre otros) o puede no
+presentar ningún tipo de construcción (Lote).
+PROPIEDAD HORIZONTAL: Forma especial de dominio en la que concurren derechos de propiedad exclusiva
+sobre bienes privados y derechos de copropiedad sobre el terreno y los demás bienes comunes.
+REASENTAMIENTO: Es el proceso metodológico, integral, participativo y planificado que acompaña, asesora
+y apoya a la población sujeto del desplazamiento involuntario para restablecer y mejorar los niveles de vida
+que tenían antes del desplazamiento.
+REGISTRO TOPOGRÁFICO: Es el documento gráfico en el que se registra la información física y jurídica del
+predio, contiene los datos catastrales y de propietario, identificando el área objeto de adquisición para la
+obra y los linderos de la misma, con todas sus construcciones y las coordenadas que la delimitan, el cual
+señala si la reserva vial afecta total o parcialmente el predio.
+RESERVA: Son las franjas de terreno necesarias para la construcción o la ampliación de obras, proyectos de
+infraestructura vial y de espacio público, que deben ser tenidas en cuenta al realizar procesos de afectación
+predial o de adquisición de los inmuebles y en la ejecución del proyecto.
+Su trámite, ajuste y/o correlativa obtención, ante la Secretaría u Oficina de Planeación, estará a cargo de la
+dependencia responsable de la ejecución del proyecto u obra.
+SANEAMIENTO AUTOMÁTICO. La adquisición de inmuebles para el desarrollo de proyectos de
+infraestructura de transporte por los motivos de utilidad pública e interés social gozará en favor de la
+entidad pública del saneamiento automático de cualquier vicio relativo a su titulación y tradición, incluso
+los que surjan con posterioridad al proceso de adquisición.
+
+27
+
+En tal sentido, de conformidad con los artículos 21 y 22 de la Ley 1682 de 2013, el saneamiento automático
+podrá invocarse cuando la entidad pública adquirente, durante el proceso de adquisición predial o al
+término del mismo, no haya podido consolidar el derecho real de dominio a su favor por existir
+circunstancias que le hayan impedido hacerlo, como por ejemplo, la transferencia imperfecta del dominio
+por el vendedor, la existencia de limitaciones, gravámenes, afectaciones o medidas cautelares que impidan
+el uso, goce y disposición plena del predio para los proyectos de infraestructura de transporte.
+El saneamiento automático respecto de inmuebles que carezcan de título traslaticio de dominio y de
+identidad registral, se declarará mediante acto administrativo motivado de conformidad con lo señalado
+en el artículo 6 del Decreto 737 de 2014.
+SUBARRENDATARIO: Persona natural o jurídica que ocupa el predio bajo contrato de arrendamiento verbal
+o escrito celebrado directamente con un arrendatario del mismo.
+TENEDOR: Persona natural o jurídica que teniendo pleno conocimiento de la persona que ostenta la calidad
+de titular real de dominio del predio, usa el mismo contando con el permiso del propietario, sea para
+vivienda o para la obtención de ingresos, sin que esto implique suscripción de contrato de arrendamiento
+o compromisos similares.
+TIRA TOPOGRÁFICA: Representación cartográfica que plasma el trazado de la obra pública a ejecutar y en
+la cual se encuentra la individualización de los predios que la comprenden para ser objeto de adquisición
+por parte de la entidad.
+UNIDAD A TRASLADAR: Se entiende por unidad a trasladar a las personas naturales o jurídicas, con vínculos
+o sin vínculos de consanguinidad que guardan relación de dependencia legal, física o económica respecto
+del inmueble requerido para la construcción de las obras públicas. Es la unidad básica de medida de los
+estudios sociales para la adquisición de predios.
+Estas unidades pueden ser clasificadas por tenencia (propietario, arrendatario, usufructuario, tenedor y
+poseedor) y tipo (hogar, económico, socioeconómico, rentista, institucional y sin uso). En un inmueble
+puede existir más de una unidad social.
+USUFRUCTUARIO: Persona natural o jurídica que ocupa el predio y goza del uso y disfrute del mismo, previa
+autorización y reconocimiento en escritura por parte del propietario, sin contrato o pago de ningún orden.
+UTILIDAD PÚBLICA E INTERÉS SOCIAL: Declaratoria que realiza la Ley o un acto administrativo tendiente a
+determinar la necesidad de adquirir los inmuebles para destinarlos a obras en beneficio del interés general
+de los asociados. Se declara de utilidad pública o interés social para la adquisición de inmuebles cuando
+van a ser destinados a los fines previstos en el artículo 58 de la Ley 388 y de 1997, y en concordancia con
+lo dispuesto en el artículo 19 de Ley 1682 de 2013 cuando se trate de infraestructura de transporte.
+VULNERABILIDAD: Hace referencia a la susceptibilidad o fragilidad física, económica, social, ambiental o
+institucional que tiene una comunidad o unidad social, de ser afectada o de sufrir efectos adversos en caso
+de que un evento físico natural o causado por la actividad humana se presente.
+
+28
+
+
+
+
+
+
+adquisición de predios para obra publica y reasentamiento
+
+este material es una cartilla 
+
+cuadro1: ¡Hola!
+Mucho gusto, mi nombre es Martha, soy ama de casa y habitante del barrio Las Flores, Medellín.
+Mi familia y yo iniciaremo un proceso de reasentamiento.
+
+Cuadro 2: En el barrio se realizará un proyecto víal, el cuál necesitará del lote de nuestra vivienda para llevarse a cabo.
+
+Cuadro 3: Ha iniciado la socialización de la obra, en donde nos informan cómo la administración adquirirá nuestro predio, según la ley 188.
+
+Cuadro 4:Han llegado a nuestra casa a censarnos, hacernos preguntas sobre nuestros ingresos, quién es la cabeza de hogar y residentes del inmueble, además de tomar medidas, a ver los acabados, entre otros.
+
+Cuadro 5: En una segunda visita ha venido un avaluador a tomar fotografías y medidas. Éste avaluará nuestra vivienda y de esto dependerá con qué tipo de subsidios contaremos.
+
+cuadro 6: Me han citado para escuchar sobre la oferta de compra. El avaluo comercial de mi vivienda fue menor a 90 SMMLV, lo que me permite contar con un subsidio.
+Me han dado 15 días para aceptar la oferta, de lo contrario, procederán con la expropiación.
+
+Cuadro 7: Recuerdo que a mi amiga Claudia le sucedió algo similar. En su caso, no se trataba de un proyecto víal, así que le dieron 30 días para aceptar, además de que no contó con subsidios, ya que su casa superaba los 90 SMMLV.
+Ella debió hacer un derecho de petición porque su avaluo presentaba inconsistencias.
+tuvieron 5 días para responderle.
+
+Cuadro 8: Después de un seguimiento, he decido aceptar la oferta.
+He firmado un contraventa, y me darán un anticipo del 20%-30%.
+
+Cuadro 9: Hemos entregado el inmueble, han venido a cortar los servicios y nos han dado el resto de dinero pactado en el contrato. Nos han dado el subsidio de translado, además de uno adicional por la maquinaria pesada del trabajo de mi esposo.
+
+Cuadro 10: Hemos llegado a la vivienda VIP.
+Nos han brindado una indemnización por el cambio del colegio de mi hija, además de una por la desconexión de los servicios y 6 meses de renta de una habitación que teníamos en alquiler. Si tuvieramos un negocio en casa, nos indemnizarían con 6 meses de utilidades.
+
+
+Cuadro 11: Este proceso me dejo muchos aprendizajes, por eso, si te encuentras en un proceso de adquisición predial o reasentamiento, cuentas con algunos mecanismos de defensa.
+1. Infórmate: No te quedes con la
+información brindada por la Alcaldía, recurre al derecho de petición, asiste a los debates en el Consejo Municipal, acercarse a Instituciones de educación superior que abordan el tema de defensa a los moradores, como lo es el grupo GIDPAD de la Universidad de San Buenaventura.
+
+Cuadro 12: 2. Organizarse colectivamente:
+Agruparse entre vecinos para proteger y trabajar por los intereses colectivos.
+3. Verificación de los censos: Se
+recomienda solicitar una copia del censo por medio de un derecho de petición para la verificación de sus datos.
+4. Identificación plena de la propiedad:
+Verificar que los datos en la oferta de compra, como las dimensiones de la construcción y del lote coincidan con la ficha catastral.
+
+Cuadro 13: 5. Acciones populares para exigir el reasentamiento colectivo: Verificar el correcto cumplimiento de PPPMAE (acuerdo 145 del 2019) y el protocolo de reasentamiento y solución a los moradores.
+6. Verificación de los términos de la obra Comprobar que la razones del proyecto u obra son las que menciona la ley 1683 del 2013, o la ley 388 de 1997, artículo 58.
+
+Cuadro 14: 
+7.Exigencia de subsidios y vivienda de reposición: El estado tiene la obligación de proveer de vivienda definitiva por mediante de vivienda usada o vivienda interes prioritario para aquellas que su avalúo sea menor a 90 smmlv y exigir el cumplimiento de las indemnizaciones que competan.
+
+Cuadro 15: GLOSARIO
+SMLMV: Salario mínimo legal mensual vigente.
+VIVIENDA VIP: Sus siglas hacen referencia a la vivienda de interés prioritario (VIP), cuyo valor máximo es de noventa salarios mínimos legales mensuales vigentes (90 SMLM). Su bajo costo se debe a que están dirigidas a familias de menores recursos.
+EI GIDPAD: Grupo interdisciplinario para el desarrollo del pensamiento y la acción dialógica.
+PPPMAE: Política Pública de Protección a Moradores Actividades Económicas y Productivas.
