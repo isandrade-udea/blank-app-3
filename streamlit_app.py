@@ -38,11 +38,6 @@ os.environ["GOOGLE_API_KEY"] = google_key
 client = InferenceClient(token=hf_token)
 
 # Inicialización de APIs
-try:
-    openai.api_key = os.getenv("OPENAI_API_KEY")
-    #st.success("✅ OpenAI inicializado correctamente")
-except Exception as e:
-    st.error(f"❌ Error OpenAI: {e}")
 
 try:
     genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
