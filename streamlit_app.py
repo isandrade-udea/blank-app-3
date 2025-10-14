@@ -1,6 +1,5 @@
 import os
 import streamlit as st
-import openai
 import google.generativeai as genai
 from anthropic import Anthropic
 from PyPDF2 import PdfReader
