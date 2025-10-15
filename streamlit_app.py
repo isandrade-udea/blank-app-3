@@ -246,7 +246,7 @@ df_eval = pd.DataFrame({
     "Bot 2": [None]*len(criterios)
 })
 
-st.write("### 🧠 Criterios de evaluación")
+st.write("### Criterios de evaluación")
 st.caption("Selecciona la valoración para cada criterio y bot")
 
 
