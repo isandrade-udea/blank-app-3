@@ -187,10 +187,10 @@ if st.session_state.respuestas:
         st.markdown(f"### 🔹 Pregunta {len(st.session_state.respuestas) - idx}: {item['pregunta']}")
         colB, colC = st.columns(2)
         with colB:
-            st.subheader("Chatbot 2 (Gemini)")
+            st.subheader("Chatbot 1 ") #(Gemini)
             st.markdown(f'<p style="text-align: justify;">{item["gemini"]}</p>', unsafe_allow_html=True)
         with colC:
-            st.subheader("Chatbot 3 (Mistral HF)")
+            st.subheader("Chatbot 2 ") #(Mistral HF)
             st.markdown(f'<p style="text-align: justify;">{item["mistral"]}</p>', unsafe_allow_html=True)
 
 
@@ -211,8 +211,8 @@ rol = st.selectbox(
     ["Estudiante", "Docente", "Analista", "Investigador", "Otro"]
 )
 experto = st.selectbox(
-    "¿Tiene experiencia o conocimientos especializados en el tema evaluado?",
-    ["Sí", "No"]
+    "¿Cuál es su nivel de conocimiento en el tema evaluado?",
+    ["Experto", "Intermedio", "Básico", "Sin conocimiento"]
 )
 
 # =====================
