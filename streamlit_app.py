@@ -71,7 +71,7 @@ with st.sidebar:
         text-align: justify;
         font-size: 16px;
     ">
-    <strong>Hola, soy Leocadio.</strong> Mi nombre une <em>“Leo”</em>, símbolo de fuerza, y <em>“Cadere”</em>, que significa brillar; 
+    <strong>Hola, soy Leocadio.</strong> Mi nombre une <em>“Leo”</em>, símbolo de fuerza, y <em>“Cadio”</em>, del griego cadere que significa brillar; 
     juntos reflejan mi propósito de acompañarte con claridad, confianza y energía en los <strong>procesos de gestión y adquisición predial en Colombia</strong>.
     </div>
     """, unsafe_allow_html=True)
