@@ -311,7 +311,7 @@ if st.button("💾 Guardar evaluación"):
 # =====================
 if os.path.exists(archivo_csv):
     df_mostrado = pd.read_csv(archivo_csv)
-    total_registros = len(df_mostrado)
+    total_registros = len(df_mostrado)/5
     st.write(f"### 📈 {total_registros} evaluaciones registradas hasta ahora")
     #st.dataframe(df_mostrado, use_container_width=True)
 else:
