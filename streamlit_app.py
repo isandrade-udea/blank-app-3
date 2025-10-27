@@ -31,8 +31,8 @@ contexto = leer_docs_txt(DATA_DIR)
 # =====================
 # Configuración de claves
 # =====================
-google_key = st.secrets["GOOGLE_API_KEY"]
-hf_token = st.secrets["HF_TOKEN"]
+google_key =st.secrets["GOOGLE_API_KEY"]
+hf_token =st.secrets["HF_TOKEN"]
 
 os.environ["GOOGLE_API_KEY"] = google_key
 client = InferenceClient(token=hf_token)
@@ -55,18 +55,35 @@ except Exception as e:
 # =====================
 # Interfaz Streamlit
 # =====================
+url = "https://github.com/isandrade-udea/blank-app-3/raw/main/imagen.png"
+
+st.sidebar.image(
+    url
+)
+
+with st.sidebar:
+    st.markdown("""
+                <div style="
+        background-color: #91bdf2;
+        padding: 1rem;
+        border-radius: 8px;
+        color: #0b2e4f;
+        text-align: justify;
+        font-size: 16px;
+    ">
+    <strong>Hola, soy Leocadio.</strong> Mi nombre une <em>“Leo”</em>, símbolo de fuerza, y <em>“Cadere”</em>, que significa brillar; 
+    juntos reflejan mi propósito de acompañarte con claridad, confianza y energía en los <strong>procesos de gestión y adquisición predial en Colombia</strong>.
+    </div>
+    """, unsafe_allow_html=True)
+    
+
+
 #st.set_page_config(page_title="Comparador de modelos IA", layout="wide")
 st.title("🤖 Comparador de modelos")
-st.caption("Compara cómo dos modelos responden con las mismas instrucciones y documentos.")
+st.caption("Compara cómo dos chatbots responden con las mismas instrucciones y documentos.")
 
 # Mensaje de bienvenida
-st.info("""
-Hola, soy **Leocadio**, el asistente virtual que te guía en los procesos de gestión y adquisición predial en Colombia.
 
-Puedo explicarte, en palabras sencillas, cómo se llevan a cabo las obras públicas, qué derechos tienes y qué apoyos existen durante un reasentamiento.
-
-Antes de iniciar tu interacción, te recomendamos **leer los criterios de evaluación** para que puedas valorar de manera más precisa la calidad de mis respuestas.
-""")
 
 # Instrucciones completas del asistente (system prompt)
 system_prompt = """
@@ -127,7 +144,8 @@ Restricciones:
 """
 
 # Documentos
-prompt = st.text_area("✏️ Pregunta:", "¿Qué derechos tiene una familia durante un proceso de adquisición predial?")
+st.header("Paso 1: Pregúntame algo…")
+prompt = st.text_area("✏️ escribe tu pregunta aqui y oprime el boton **comparar modelos**", "¿Qué derechos tiene una familia durante un proceso de adquisición predial?")
 
 # =====================
 # Botón para consultar
@@ -197,16 +215,16 @@ if st.session_state.respuestas:
 
 
 
-st.header("📊Evaluación de bots")
+st.header("Paso 2: Dinos qué te pareció")
 
-
+st.markdown("""Completa la encuesta y ayudanos a elegir al bot con la mejor respuesta.""")
 # =====================
 # Configuración inicial
 # =====================
 archivo_csv = "evaluaciones_chatbots.csv"  # archivo central
 
 # Campos de identificación
-st.subheader("👤 Información del evaluador")
+#st.subheader("👤 Información del evaluador")
 rol = st.selectbox(
     "Rol del evaluador:",
     ["Estudiante", "Docente", "Analista", "Investigador", "Otro"]
@@ -247,7 +265,7 @@ df_eval = pd.DataFrame({
     "Bot 2": [None]*len(criterios)
 })
 
-st.write("### Criterios de evaluación")
+#st.write("### Criterios de evaluación")
 st.caption("Selecciona la valoración para cada criterio y bot")
 
 
@@ -298,5 +316,3 @@ if os.path.exists(archivo_csv):
     #st.dataframe(df_mostrado, use_container_width=True)
 else:
     st.info("📭 Aún no hay evaluaciones registradas.")
-
-
