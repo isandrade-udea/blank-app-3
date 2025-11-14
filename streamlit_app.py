@@ -174,7 +174,7 @@ if st.button("Comparar modelos"):
             try:
                 full_prompt = f"{system_prompt}\n\nContexto de documentos:\n{contexto}\n\nPregunta:\n{prompt}"
                 response = client.chat.completions.create(
-                    model="mistral-small-latest"#"mistralai/Mistral-7B-Instruct-v0.3",
+                    model="mistral-small-latest", #"mistralai/Mistral-7B-Instruct-v0.3",
                     messages=[
                         {"role": "system", "content": "Eres un asistente útil y claro."},
                         {"role": "user", "content": full_prompt},
